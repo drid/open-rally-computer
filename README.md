@@ -136,3 +136,7 @@ This is what this means:
 ## Contributors
 
 - [turtle3333](https://github.com/turtle3333): User manual translation
+
+## Forks
+
+- [https://github.com/adamshatzkamer/open-rally-computer](https://github.com/adamshatzkamer/open-rally-computer) A fork of this project that focuses on making it easier to assemble using Adafruit Feather boards and FeatherWing accessories. This version is designed to simplify hardware selection and wiring, making it more accessible for beginners and hobbyists.
