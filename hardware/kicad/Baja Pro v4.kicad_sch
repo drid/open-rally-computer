@@ -7350,7 +7350,7 @@
 				)
 			)
 		)
-		(property "Value" "1N4007"
+		(property "Value" "PU3BFSH"
 			(at 43.18 43.18 0)
 			(effects
 				(font
@@ -7358,7 +7358,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-123F"
+		(property "Footprint" "Diode_SMD:D_SOD-128"
 			(at 43.18 46.99 0)
 			(effects
 				(font
@@ -7395,6 +7395,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 43.18 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part" "PU3BFSH"
 			(at 43.18 46.99 0)
 			(effects
 				(font
@@ -7799,6 +7808,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part" "C1206C104K5RACAUTO7210"
+			(at 78.74 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9c6964ba-7786-4035-aced-bd02ba4f44f8")
 		)
@@ -7873,7 +7891,7 @@
 				(hide yes)
 			)
 		)
-		(property "PartNumber" "  SRP5030T-5R6M"
+		(property "Manufacturer Part" "  SRP5030T-5R6M"
 			(at 95.25 49.53 90)
 			(effects
 				(font
@@ -7942,6 +7960,15 @@
 		)
 		(property "Description" ""
 			(at 73.66 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part" "MCA1206MD1005BP500"
+			(at 73.66 254 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8227,6 +8254,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part" "RG3216P-2401-D-T5"
+			(at 248.92 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "957bab0c-e4cc-4373-b76b-bca9e526dbcd")
 		)
@@ -8366,6 +8402,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 224.79 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part" "RG3216P-2401-D-T5"
 			(at 224.79 48.26 0)
 			(effects
 				(font
@@ -8515,6 +8560,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part" "CL32A106KBJNNNE"
+			(at 86.36 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b93535b6-1ac5-493e-998d-ccb28f89f119")
 		)
@@ -8591,6 +8645,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part" "ABNTC-0805-103J-3950F-T"
+			(at 382.27 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "6b10350e-2773-4811-8859-1a78bd884858")
 		)
@@ -8658,6 +8721,15 @@
 		)
 		(property "Description" ""
 			(at 364.49 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part" "RN73R2BTTD1001F50"
+			(at 364.49 240.03 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8741,7 +8813,7 @@
 				(hide yes)
 			)
 		)
-		(property "PartNumber" "RC0603FR-0722KL"
+		(property "Manufacturer Part" "RC0603FR-0722KL"
 			(at 111.76 60.96 0)
 			(effects
 				(font
@@ -8883,6 +8955,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 96.52 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part" "C1206C225K5RECAUTO7210"
 			(at 96.52 233.68 0)
 			(effects
 				(font
@@ -9170,7 +9251,7 @@
 				(hide yes)
 			)
 		)
-		(property "PartNumber" "CRCW0604100KFKED"
+		(property "Manufacturer Part" "CRCW0604100KFKED"
 			(at 111.76 53.34 0)
 			(effects
 				(font
@@ -9247,7 +9328,7 @@
 				(hide yes)
 			)
 		)
-		(property "PartNumber" "C0805C104M5RACTU"
+		(property "Manufacturer Part" "C0805C104M5RACTU"
 			(at 85.09 46.99 90)
 			(effects
 				(font
@@ -9326,6 +9407,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part" "C1206C470K5GACAUTO"
+			(at 101.6 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "047d9514-8f35-486a-a968-aede47d3b7e8")
 		)
@@ -9388,6 +9478,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 368.3 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part" "Pin Header 2.54"
 			(at 368.3 125.73 0)
 			(effects
 				(font
@@ -9685,6 +9784,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part" "S2B-XH-A"
+			(at 31.75 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "10a244d0-49de-48c7-87f2-2cdc9e7aa2f2")
 		)
@@ -9734,7 +9842,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 47.9552 54.61 0)
 			(effects
 				(font
@@ -9761,7 +9869,7 @@
 				(hide yes)
 			)
 		)
-		(property "PartNumber" "CL32A106KBJNNNE"
+		(property "Manufacturer Part" "CL32A106KBJNNNE"
 			(at 46.99 50.8 0)
 			(effects
 				(font
@@ -9903,6 +10011,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part" "C1206C334K1RECAUTO7210"
+			(at 73.66 243.84 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0046ea6b-d645-4559-bce6-1431adf9e732")
 		)
@@ -9971,6 +10088,15 @@
 			)
 		)
 		(property "Description" "RF Module, ESP32-D0WDQ6 SoC, Wi-Fi 802.11b/g/n, Bluetooth, BLE, 32-bit, 2.7-3.6V, onboard antenna, SMD"
+			(at 210.82 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part" "ESP32-WROOM-32"
 			(at 210.82 203.2 0)
 			(effects
 				(font
@@ -10230,6 +10356,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part" "S4B-XH-A"
+			(at 374.65 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1f3f56dd-7e49-4c51-9140-7478ed7ee1fd")
 		)
@@ -10303,6 +10438,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 90.17 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part" "C1206C225K5RECAUTO7210"
 			(at 90.17 240.03 0)
 			(effects
 				(font
@@ -10655,7 +10799,7 @@
 				(hide yes)
 			)
 		)
-		(property "PartNumber" "TPS54302DDCR"
+		(property "Manufacturer Part" "TPS54302DDCR"
 			(at 68.58 49.53 0)
 			(effects
 				(font
@@ -10747,6 +10891,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part" "RG3216P-1002-D-T5"
+			(at 231.14 242.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7951d513-4ce0-4d35-8457-ee0ee8f32cc8")
 		)
@@ -10815,6 +10968,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 190.5 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part" "RG3216P-1002-D-T5"
 			(at 190.5 163.83 0)
 			(effects
 				(font
@@ -10899,7 +11061,7 @@
 				(hide yes)
 			)
 		)
-		(property "PartNumber" "GRM32ER61C476KE15L"
+		(property "Manufacturer Part" "GRM32ER61C476KE15L"
 			(at 123.19 53.34 0)
 			(effects
 				(font
